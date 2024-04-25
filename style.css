@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(252, 250, 247);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.main{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    box-shadow: black;
+    display: flex;
+  justify-content: center;  
+    text-align: center;
+    border-radius: 12%;
+    box-shadow: 10px 10px rgb(226, 225, 225);
+    
+
+}
+.box1{
+
+    color: white;
+    width: 200px;
+    height: 360px;
+    background-color:hsl(252, 100%, 67%);
+    border-radius: 12%;
+    padding: 20px;
+    .box3{
+        background-color: hsla(256, 72%, 46%, 1);
+        border-radius: 50%;
+        height: 100px; 
+        width: 100%x;
+        padding: 20px;
+        }
+}
+.box2{
+    width: 200px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    justify-content: space-between;
+   padding: 20px;
+
+}
+
+button{
+    height: 40px;
+    width: 150px;
+border-radius: 15vb;
+    background-color:darkslategray;
+    padding-top: 10p;
+    
+    text-align: center;
+}
+.box9{border-radius: 10px;
+       color: red;    
+    height: 40px;
+    width: 150px;
+    background-color: hsl(0, 21%, 90%);
+    padding-top: 8px;
+}
+.box8{
+color: rgb(127, 127, 12);
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    background-color:  hsl(221, 100%, 96%);
+    padding-top: 8px;
+}
+.box7{border-radius: 10px;
+color: green;
+    height: 40px;
+    width: 150px;
+    background-color:   hsl(241, 100%, 89%);
+    padding-top: 8px;
+}
+.box6{border-radius: 10px;
+   color: rgb(5, 5, 86);
+    height: 40px;
+    width: 150px;
+    background-color:  hsl(224, 30%, 27%);
+    padding-top: 8px;
+}
+
+
+
+
